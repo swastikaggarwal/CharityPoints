@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Topic ](#Topic )
+- [Topic](#Topic )
 ## Introduction {#introduction}
 This section provides an introduction to the project...
 
