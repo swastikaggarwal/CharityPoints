@@ -1,0 +1,1765 @@
+.groupChild,
+.unionIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3893.42px;
+  height: 2546.29px;
+}
+.groupChild {
+  top: -8px;
+  left: -32px;
+  border-radius: var(--br-40xl);
+  width: 1540.59px;
+  height: 967.5px;
+  object-fit: cover;
+}
+.settings {
+  position: absolute;
+  top: 6.5px;
+  left: 47.92px;
+}
+.settingsOptionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.goalsOption,
+.settingsOption,
+.volunteerOption {
+  position: absolute;
+  top: 404px;
+  left: 57.99px;
+  width: 98.92px;
+  height: 30px;
+}
+.goalsOption,
+.volunteerOption {
+  top: 359px;
+  width: 82.92px;
+}
+.volunteerOption {
+  top: 314px;
+  width: 109.92px;
+}
+.donate {
+  position: absolute;
+  top: 0;
+  left: 41.91px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 94.12%;
+  width: 22.5%;
+  top: -2.94%;
+  right: 78.63%;
+  bottom: 8.82%;
+  left: -1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 11.76%;
+  top: 26.47%;
+  bottom: 61.76%;
+}
+.donateOption,
+.search {
+  position: absolute;
+  top: 275.5px;
+  left: 64px;
+  width: 88.91px;
+  height: 17px;
+}
+.search {
+  cursor: pointer;
+  text-decoration: none;
+  top: 234.21px;
+  left: 105.61px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 62px;
+  height: 20px;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 92.86%;
+  width: 92.86%;
+  top: -3.57%;
+  right: 10.71%;
+  bottom: 10.71%;
+  left: -3.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 32.14%;
+  width: 32.14%;
+  top: 71.43%;
+  right: -3.57%;
+  bottom: -3.57%;
+  left: 71.43%;
+}
+.group {
+  text-decoration: none;
+  position: absolute;
+  height: 87.5%;
+  width: 87.5%;
+  top: 6.25%;
+  right: 6.25%;
+  bottom: 6.25%;
+  left: 6.25%;
+}
+.bytesizesearch,
+.home {
+  cursor: pointer;
+  position: absolute;
+}
+.bytesizesearch {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 230px;
+  left: 63px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.home {
+  text-decoration: none;
+  top: 8px;
+  left: 50px;
+  font-weight: 700;
+  color: inherit;
+}
+.homeSection {
+  position: absolute;
+  top: 184px;
+  left: 56px;
+  width: 88px;
+  height: 30px;
+}
+.overviewButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-aliceblue-100);
+  width: 165px;
+  height: 39px;
+}
+.overview {
+  position: absolute;
+  top: 11.5px;
+  left: 57.37px;
+}
+.overviewButtonItem {
+  position: absolute;
+  top: 5px;
+  left: 9.45px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.overviewButton {
+  position: absolute;
+  top: 122px;
+  left: 44px;
+  width: 165px;
+  height: 39px;
+  color: var(--primary);
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-400);
+  width: 1px;
+  height: 903.5px;
+}
+.groupInner {
+  left: 1px;
+  background-color: var(--color-whitesmoke-100);
+}
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 6px;
+  left: 258.54px;
+  width: 2px;
+  height: 903.5px;
+}
+.rectangleParent {
+  top: 141.79px;
+  left: 51.39px;
+  width: 1476.59px;
+  height: 909.5px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-lato);
+}
+.donateForGoodCouaseDownBuChild {
+  position: absolute;
+  top: 129.28px;
+  left: 0;
+  border-radius: 13.62px;
+  background-color: var(--color-goldenrod);
+  width: 163.21px;
+  height: 41.03px;
+}
+.donateForGood {
+  position: absolute;
+  top: 142.28px;
+  left: 10px;
+  display: inline-block;
+  width: 131px;
+  height: 15px;
+}
+.donateForGoodCouaseDownBuItem {
+  position: absolute;
+  height: 5.15%;
+  width: 5.38%;
+  top: 85.38%;
+  right: 11.08%;
+  bottom: 9.47%;
+  left: 83.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  position: absolute;
+  top: 8.69px;
+  left: 2.16px;
+  width: 57.76px;
+  height: 70.53px;
+}
+.div,
+.ellipseDiv {
+  position: absolute;
+  transform: rotate(-30deg);
+  transform-origin: 0 0;
+}
+.ellipseDiv {
+  top: 12.47px;
+  left: 0;
+  border-radius: 50%;
+  border: 1.5px solid var(--primary);
+  box-sizing: border-box;
+  width: 24.94px;
+  height: 24.94px;
+}
+.div {
+  top: 10.19px;
+  left: 8.63px;
+  display: inline-block;
+  width: 13.3px;
+  height: 26.61px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 34.07px;
+  height: 34.07px;
+}
+.moonIcon,
+.vectorIcon4 {
+  position: absolute;
+  top: 8.69px;
+  left: 2.16px;
+  width: 57.76px;
+  height: 37.77px;
+}
+.moonIcon {
+  top: 1.37px;
+  left: 48.05px;
+  width: 23.06px;
+  height: 23.06px;
+  overflow: hidden;
+}
+.groupDiv,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.11px;
+  height: 46.46px;
+}
+.rectangleDiv {
+  height: 17.03%;
+  width: 22.88%;
+  top: 47.72%;
+  right: 49.59%;
+  bottom: 35.26%;
+  left: 27.54%;
+  background-color: var(--white);
+}
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8 {
+  position: absolute;
+  height: 13.87%;
+  width: 2.11%;
+  top: 48.47%;
+  right: 59.97%;
+  bottom: 37.66%;
+  left: 37.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon7,
+.vectorIcon8 {
+  top: 46.77%;
+  bottom: 39.36%;
+}
+.vectorIcon8 {
+  height: 7.88%;
+  width: 15.46%;
+  right: 53.3%;
+  bottom: 45.35%;
+  left: 31.25%;
+}
+.groupContainer {
+  position: absolute;
+  top: 0;
+  left: 20.1px;
+  width: 71.11px;
+  height: 79.22px;
+}
+.giveYourDonation {
+  margin: 0;
+}
+.giveYourDonationContainer {
+  position: absolute;
+  top: 87.63px;
+  left: 0;
+  font-size: 8.75px;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--text-primary);
+  text-align: center;
+  display: inline-block;
+  width: 103.76px;
+  height: 21.25px;
+}
+.donateForGoodCouaseDownBuInner,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 103.76px;
+  height: 108.88px;
+}
+.donateForGoodCouaseDownBuInner {
+  left: 21.61px;
+  font-size: 14.23px;
+  color: var(--primary);
+}
+.donateForGoodCouaseDownBu {
+  position: absolute;
+  top: 849.51px;
+  left: 110.39px;
+  width: 163.21px;
+  height: 170.31px;
+  font-size: 11.14px;
+  font-family: var(--font-quicksand);
+}
+.getSummaryOf {
+  position: absolute;
+  top: 92.22px;
+  left: 26.54px;
+}
+.donateFood,
+.topDonateFood {
+  position: absolute;
+  width: 479px;
+}
+.donateFood {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-abhaya-libre-semibold);
+  color: var(--text-primary);
+  display: inline-block;
+  height: 36px;
+}
+.topDonateFood {
+  top: 147.79px;
+  left: 330.39px;
+  height: 111.22px;
+  font-size: 16.06px;
+  color: var(--color-darkgray-100);
+}
+.enterDetailsSectionChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xl);
+  background: linear-gradient(180deg, #fff, #fff);
+  box-shadow: var(--effect);
+}
+.cancelDonation {
+  position: absolute;
+  top: 94.56%;
+  left: 26.58%;
+  color: var(--color-dimgray-100);
+}
+.cancellButtonChild,
+.cancellButtonItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 13.62px;
+  background-color: var(--color-whitesmoke-400);
+}
+.cancellButtonItem {
+  width: 51.33%;
+  right: 48.67%;
+  background-color: var(--color-lightgray-200);
+}
+.cancellButton {
+  position: absolute;
+  height: 7.5%;
+  width: 29.29%;
+  top: 83.66%;
+  right: 4.98%;
+  bottom: 8.83%;
+  left: 65.74%;
+}
+.remainingStock {
+  position: absolute;
+  top: 62.36%;
+  left: 26.28%;
+}
+.span {
+  font-size: var(--font-size-lg);
+}
+.div1 {
+  position: absolute;
+  top: 49.25%;
+  left: 33.33%;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--red);
+  font-size: 31.55px;
+}
+.span1 {
+  color: var(--color-darkgray-100);
+}
+.donated,
+.kg {
+  position: absolute;
+  top: 42.54%;
+  left: 36.54%;
+}
+.kg {
+  top: 30.06%;
+  left: 26.28%;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--green);
+  font-size: 31.55px;
+}
+.kg2,
+.totalDonation {
+  position: absolute;
+  top: 24.32%;
+  left: 24.51%;
+}
+.kg2 {
+  top: 11.83%;
+  left: 0;
+  font-size: 31.55px;
+  font-family: var(--font-lato);
+  color: var(--primary);
+}
+.foodMeter1 {
+  position: absolute;
+  top: 0;
+  left: 24.36%;
+  letter-spacing: 0.1em;
+  color: var(--color-dimgray-100);
+}
+.foodMeter {
+  position: absolute;
+  height: 86.11%;
+  width: 26.15%;
+  top: 4.04%;
+  right: 3.44%;
+  bottom: 9.85%;
+  left: 70.42%;
+  color: var(--color-darkslategray-100);
+}
+.enterDetailsSectionItem {
+  position: absolute;
+  height: 55.04%;
+  width: 0.17%;
+  top: 15.24%;
+  right: 33.24%;
+  bottom: 29.72%;
+  left: 66.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.prkg {
+  position: absolute;
+  top: 68.1%;
+  left: 88.27%;
+  font-weight: 600;
+}
+.span2 {
+  color: var(--color-dimgray-100);
+}
+.quantity {
+  position: absolute;
+  top: 70.97%;
+  left: 0;
+  letter-spacing: 0.1em;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-darkslategray-100);
+}
+.quantityDetailsChild,
+.quantityDetailsItem {
+  position: absolute;
+  height: 16.17%;
+  width: 99.66%;
+  top: 36.66%;
+  right: 0;
+  bottom: 47.17%;
+  left: 0.34%;
+  border-radius: 13.62px;
+  background-color: var(--color-whitesmoke-200);
+}
+.quantityDetailsItem {
+  height: 15.47%;
+  width: 21.54%;
+  top: 37.01%;
+  right: 78.13%;
+  bottom: 47.52%;
+  border-radius: 10.78px;
+  background-color: var(--primary);
+}
+.kg3 {
+  position: absolute;
+  height: 54.95%;
+  width: 20.72%;
+  top: 0;
+  left: 3.8%;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.quantityDetails {
+  position: absolute;
+  height: 16.13%;
+  width: 53.88%;
+  top: 74.02%;
+  right: 40.19%;
+  bottom: 9.85%;
+  left: 5.92%;
+  font-family: var(--font-lato);
+}
+.enterButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 19.51px;
+  background-color: var(--color-deepskyblue);
+  box-shadow: 0 1.9512195587158203px 1.95px rgba(0, 0, 0, 0.25);
+}
+.enter {
+  position: absolute;
+  height: 52.5%;
+  width: 53.75%;
+  top: 5%;
+  left: 32.32%;
+  font-size: var(--text-sm-regular-size);
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.enterButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 5.51%;
+  width: 16.59%;
+  top: 68.35%;
+  right: 60.15%;
+  bottom: 26.14%;
+  left: 23.26%;
+}
+.enterDetails {
+  position: absolute;
+  top: 3.88%;
+  left: 4.13%;
+  font-size: 20.11px;
+  letter-spacing: 0.15em;
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.enterDetailsSectionInner {
+  position: absolute;
+  height: 6.59%;
+  width: 62.82%;
+  top: 36.39%;
+  right: 33.27%;
+  bottom: 57.02%;
+  left: 3.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.enterDetailsSection {
+  position: absolute;
+  top: 299px;
+  left: 349.83px;
+  width: 596.66px;
+  height: 363.12px;
+}
+.orContinueSectionChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+  box-shadow: var(--effect);
+}
+.submitButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke-300);
+  width: 63px;
+  height: 15px;
+}
+.upload1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 13px;
+  height: 13px;
+  object-fit: cover;
+}
+.submit {
+  position: absolute;
+  top: 2px;
+  left: 19px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 48px;
+  height: 8px;
+}
+.submitButton,
+.upload1Parent {
+  position: absolute;
+  top: 1px;
+  left: 6px;
+  width: 67px;
+  height: 13px;
+}
+.submitButton {
+  top: 209.84px;
+  left: 423.17px;
+  width: 73px;
+  height: 15px;
+  font-size: var(--font-size-5xs);
+  color: var(--black);
+}
+.microphone {
+  position: absolute;
+  height: 4.65%;
+  width: 13.24%;
+  top: 49.58%;
+  left: 70.92%;
+  display: inline-block;
+}
+.microphoneButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15.59px;
+  background-color: var(--color-mistyrose);
+  width: 53px;
+  height: 53px;
+}
+.microphoneButtonItem {
+  position: absolute;
+  top: 3.61px;
+  left: 4.82px;
+  border-radius: var(--br-2xs-8);
+  background-color: var(--color-lightgray-100);
+  width: 44.57px;
+  height: 44.57px;
+}
+.microphone1Icon,
+.microphoneButtonInner {
+  position: absolute;
+  top: 7px;
+  left: 6px;
+  width: 40.95px;
+  height: 38.91px;
+}
+.microphone1Icon {
+  top: 15px;
+  left: 13px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.microphoneButton {
+  position: absolute;
+  top: 93.84px;
+  left: 432.17px;
+  width: 53px;
+  height: 53px;
+}
+.speakNow {
+  position: absolute;
+  top: 15.84%;
+  left: 69.52%;
+  letter-spacing: 0.1em;
+  color: #4f3737;
+  text-align: right;
+}
+.orContinueSectionItem,
+.uploadButton {
+  position: absolute;
+  top: 67.65px;
+  left: 302.15px;
+  width: 1px;
+  height: 199.86px;
+}
+.uploadButton {
+  top: 209.84px;
+  left: 125.17px;
+  width: 73px;
+  height: 15px;
+  font-size: var(--font-size-5xs);
+  color: var(--black);
+}
+.gallery {
+  position: absolute;
+  top: 49.27%;
+  left: 34.39%;
+}
+.imagesInterfaceSymbol1Icon {
+  position: absolute;
+  top: 15px;
+  left: 16px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.galleryButton {
+  position: absolute;
+  top: 98.84px;
+  left: 205.17px;
+  width: 53px;
+  height: 53px;
+}
+.camera {
+  position: absolute;
+  top: 49.27%;
+  left: 10.59%;
+}
+.cameraButtonInner,
+.photo1Icon {
+  position: absolute;
+  top: 5px;
+  left: 6.02px;
+  width: 40.95px;
+  height: 38.91px;
+}
+.photo1Icon {
+  top: 14.45px;
+  left: 16.86px;
+  width: 19.27px;
+  height: 19.27px;
+  object-fit: cover;
+}
+.cameraButton {
+  position: absolute;
+  top: 98.84px;
+  left: 59.17px;
+  width: 53px;
+  height: 53px;
+}
+.orContinueWith,
+.takeAPicture {
+  position: absolute;
+  letter-spacing: 0.1em;
+}
+.takeAPicture {
+  top: 15.77%;
+  left: 14.11%;
+  color: #1c0b0b;
+  text-align: right;
+}
+.orContinueWith {
+  top: 1.5%;
+  left: 2.04%;
+  font-size: 20.11px;
+  font-family: var(--font-abhaya-libre-semibold);
+  color: var(--text-primary);
+}
+.orContinueSection {
+  position: absolute;
+  top: 696.95px;
+  left: 357.22px;
+  width: 596.66px;
+  height: 322.38px;
+  color: var(--color-darkslategray-100);
+}
+.getGreatPointsBoxChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background: linear-gradient(180deg, #ed654c, #d05842);
+  box-shadow: var(--effect);
+}
+.greatPointsVector {
+  position: absolute;
+  height: 6.24%;
+  width: 6.59%;
+  top: 86.51%;
+  right: 49.35%;
+  bottom: 7.25%;
+  left: 44.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.getGreatPointContainer {
+  position: absolute;
+  top: 68.9%;
+  left: 10.16%;
+}
+.vectorIcon10,
+.vectorIcon9 {
+  position: absolute;
+  height: 43.52%;
+  width: 55.94%;
+  top: 0.65%;
+  right: 44.06%;
+  bottom: 55.84%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon10 {
+  height: 28.82%;
+  width: 37.05%;
+  top: 0;
+  right: 0;
+  bottom: 71.18%;
+  left: 62.95%;
+}
+.groupChild1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-indianred);
+}
+.b,
+.ellipseGroup,
+.groupChild1 {
+  position: absolute;
+  transform: rotate(-30deg);
+  transform-origin: 0 0;
+}
+.b {
+  height: 87.34%;
+  width: 43.67%;
+  top: -8.6%;
+  left: 27.55%;
+  display: inline-block;
+}
+.ellipseGroup {
+  height: 24.15%;
+  width: 20.3%;
+  top: 57.21%;
+  right: 37.53%;
+  bottom: 18.65%;
+  left: 42.17%;
+}
+.groupChild2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-indianred);
+}
+.b1,
+.ellipseContainer,
+.groupChild2 {
+  position: absolute;
+  transform: rotate(30deg);
+  transform-origin: 0 0;
+}
+.b1 {
+  height: 87.34%;
+  width: 43.67%;
+  top: 19.56%;
+  left: 21.22%;
+  display: inline-block;
+}
+.ellipseContainer {
+  height: 24.15%;
+  width: 20.3%;
+  top: 67.02%;
+  right: 53.5%;
+  bottom: 8.84%;
+  left: 26.2%;
+}
+.vectorParent {
+  position: absolute;
+  height: 65.92%;
+  width: 90.87%;
+  top: 2.55%;
+  right: 15.17%;
+  bottom: 31.52%;
+  left: -6.04%;
+  font-size: 20.25px;
+  color: var(--color-tomato);
+  font-family: var(--font-quicksand);
+}
+.getGreatPointsBox {
+  position: absolute;
+  top: 836.29px;
+  left: 1330.9px;
+  width: 157.93px;
+  height: 183.03px;
+  font-size: 20.11px;
+  color: var(--white);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.adminLogo,
+.bellIcon,
+.mailIcon {
+  position: absolute;
+  height: 68.46%;
+  width: 10.66%;
+  top: 18.62%;
+  right: 69.79%;
+  bottom: 12.92%;
+  left: 19.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.adminLogo,
+.mailIcon {
+  right: 89.34%;
+  left: 0;
+}
+.adminLogo {
+  height: 100%;
+  width: 15.58%;
+  top: 0;
+  right: 43.62%;
+  bottom: 0;
+  left: 40.8%;
+}
+.adminAccount,
+.andrew {
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+.andrew {
+  top: 0;
+  font-family: var(--font-abhaya-libre-semibold);
+  color: var(--text-primary);
+}
+.adminDetails {
+  position: absolute;
+  height: 96.98%;
+  width: 39.54%;
+  top: 1.51%;
+  right: 0;
+  bottom: 1.51%;
+  left: 60.46%;
+}
+.adminSectionTop {
+  position: absolute;
+  top: 207.72px;
+  left: 1249.8px;
+  width: 225.06px;
+  height: 35.06px;
+  color: var(--color-darkgray-100);
+}
+.leaderboardSectionChild,
+.quantityUnitRightChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+}
+.leaderboardSectionChild {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-lgi);
+  box-shadow: var(--effect);
+}
+.quantityUnitRightChild {
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  width: 175.32px;
+  height: 36.52px;
+}
+.kg4 {
+  position: absolute;
+  top: 5.76px;
+  left: 153.56px;
+  font-weight: 300;
+}
+.quantityUnitRight,
+.textarea {
+  position: absolute;
+  color: var(--unactive);
+  font-family: var(--font-lato);
+}
+.textarea {
+  border: 0;
+  background-color: transparent;
+  font-weight: 300;
+  font-size: 23.98px;
+  top: 3.76px;
+  left: 10.81px;
+  text-align: left;
+}
+.quantityUnitRight {
+  top: 133.59px;
+  left: 11.2px;
+  width: 175.32px;
+  height: 36.52px;
+  font-size: 20.11px;
+}
+.addNew,
+.plusCircleIcon {
+  position: absolute;
+  top: 34.17px;
+  left: 0;
+}
+.plusCircleIcon {
+  top: 0;
+  left: 14.5px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.plusElipse {
+  position: absolute;
+  top: 67.91px;
+  left: 275.38px;
+  width: 45px;
+  height: 48.17px;
+}
+.mia {
+  position: absolute;
+  top: 44.12px;
+  left: 10.07px;
+}
+.miaElipse,
+.miaElipseChild {
+  position: absolute;
+  width: 42.14px;
+}
+.miaElipseChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  height: 42.14px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.miaElipse {
+  top: 57.96px;
+  left: 228.62px;
+  height: 58.12px;
+}
+.mike,
+.mikeElipse {
+  position: absolute;
+  top: 44.12px;
+  left: 7.57px;
+}
+.mikeElipse {
+  top: 57.96px;
+  left: 174.48px;
+  width: 42.14px;
+  height: 58.12px;
+}
+.john,
+.johnElipse {
+  position: absolute;
+  top: 44.12px;
+  left: 6.57px;
+}
+.johnElipse {
+  top: 57.96px;
+  left: 120.34px;
+  width: 42.14px;
+  height: 58.12px;
+}
+.monica {
+  position: absolute;
+  top: 44.12px;
+  left: 0;
+}
+.monicaElipseChild {
+  position: absolute;
+  top: 0;
+  left: 0.43px;
+  border-radius: 50%;
+  width: 42.14px;
+  height: 42.14px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.monicaElipse {
+  position: absolute;
+  top: 57.96px;
+  left: 65.34px;
+  width: 42.57px;
+  height: 58.12px;
+}
+.ann,
+.annElipse {
+  position: absolute;
+  top: 44.12px;
+  left: 9.07px;
+}
+.annElipse {
+  top: 57.96px;
+  left: 11.2px;
+  width: 42.14px;
+  height: 58.12px;
+}
+.foodDonorLeaderboard {
+  position: absolute;
+  top: 17.72px;
+  left: 12.77px;
+  font-size: 20.11px;
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.leaderboardSection {
+  position: absolute;
+  top: 836.62px;
+  left: 974.97px;
+  width: 341.51px;
+  height: 183.03px;
+  font-size: var(--text-xs-medium-size);
+}
+.div2 {
+  position: absolute;
+  height: 63.8%;
+  width: 13.14%;
+  top: 0;
+  left: 86.86%;
+  font-weight: 600;
+  display: inline-block;
+}
+.noPoverty {
+  position: absolute;
+  top: 57.65%;
+  left: 11.77%;
+  font-size: var(--text-sm-regular-size);
+  letter-spacing: 0.1em;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-darkgray-100);
+}
+.noPovertyRightChild {
+  position: absolute;
+  height: 18.78%;
+  width: 72.55%;
+  top: 22.51%;
+  right: 16.15%;
+  bottom: 58.71%;
+  left: 11.31%;
+  border-radius: 13.62px;
+  background-color: var(--color-whitesmoke-200);
+}
+.noPovertyRightItem {
+  position: absolute;
+  height: 17.84%;
+  width: 37.29%;
+  top: 22.49%;
+  right: 51.42%;
+  bottom: 59.67%;
+  left: 11.29%;
+  border-radius: 10.78px;
+  background-color: var(--color-cornflowerblue);
+}
+.noPovertyRightInner {
+  position: absolute;
+  height: 181.3%;
+  width: 17.78%;
+  top: -1.99%;
+  right: 86.95%;
+  bottom: -79.31%;
+  left: -4.73%;
+  border-radius: var(--br-10xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.noPovertyRight {
+  position: absolute;
+  height: 22.72%;
+  width: 100%;
+  top: 77.28%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.div3 {
+  position: absolute;
+  height: 64.15%;
+  width: 13.14%;
+  top: 0;
+  left: 86.86%;
+  font-weight: 600;
+  display: inline-block;
+}
+.qualityEducationRightChild {
+  position: absolute;
+  height: 18.88%;
+  width: 72.55%;
+  top: 22.1%;
+  right: 16.15%;
+  bottom: 59.03%;
+  left: 11.31%;
+  border-radius: 13.62px;
+  background-color: var(--color-whitesmoke-200);
+}
+.qualityEducationRightItem {
+  position: absolute;
+  height: 18.88%;
+  width: 12.26%;
+  top: 22.64%;
+  right: 76.44%;
+  bottom: 58.49%;
+  left: 11.31%;
+  border-radius: 10.78px;
+  background: linear-gradient(90deg, #209d43, #2bc255);
+}
+.qualityEducation {
+  position: absolute;
+  top: 57.42%;
+  left: 11.77%;
+  font-size: var(--text-sm-regular-size);
+  letter-spacing: 0.1em;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-darkgray-100);
+}
+.qualityEducationRightInner {
+  position: absolute;
+  height: 182.27%;
+  width: 17.78%;
+  top: -2.54%;
+  right: 86.95%;
+  bottom: -79.73%;
+  left: -4.73%;
+  border-radius: var(--br-10xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.qualityEducationRight {
+  position: absolute;
+  height: 22.59%;
+  width: 100%;
+  top: 47.34%;
+  right: 0;
+  bottom: 30.06%;
+  left: 0;
+}
+.div4 {
+  position: absolute;
+  height: 64.15%;
+  width: 13.19%;
+  top: 0;
+  left: 86.81%;
+  font-weight: 600;
+  display: inline-block;
+}
+.zeroHungerRightChild {
+  position: absolute;
+  height: 18.88%;
+  width: 72.83%;
+  top: 22.1%;
+  right: 16.21%;
+  bottom: 59.03%;
+  left: 10.95%;
+  border-radius: 13.62px;
+  background-color: var(--color-whitesmoke-200);
+}
+.zeroHungerRightItem {
+  position: absolute;
+  height: 18.88%;
+  width: 38.69%;
+  top: 22.64%;
+  right: 50.35%;
+  bottom: 58.49%;
+  left: 10.95%;
+  border-radius: 10.78px;
+  background: linear-gradient(270deg, #fcae73, #f79042);
+}
+.zeroHunger {
+  position: absolute;
+  top: 57.42%;
+  left: 11.42%;
+  font-size: var(--text-sm-regular-size);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-darkgray-100);
+}
+.zeroHungerRightInner {
+  position: absolute;
+  height: 182.27%;
+  width: 17.85%;
+  top: -2.54%;
+  right: 86.9%;
+  bottom: -79.73%;
+  left: -4.75%;
+  border-radius: var(--br-10xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.zeroHungerRight {
+  position: absolute;
+  height: 22.59%;
+  width: 99.61%;
+  top: 17.28%;
+  right: 0;
+  bottom: 60.12%;
+  left: 0.39%;
+}
+.sustainableDevelopmentGoals {
+  position: absolute;
+  top: 0;
+  left: 0.31%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abhaya-libre-semibold);
+  color: #aa503f;
+}
+.sdgRightStats {
+  position: absolute;
+  top: 571.85px;
+  left: 986.16px;
+  width: 506.9px;
+  height: 222.03px;
+  font-size: 23.98px;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-lato);
+}
+.communityKitchensRightChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xl);
+  background-color: var(--white);
+  box-shadow: var(--effect);
+}
+.communityKitchens {
+  position: absolute;
+  top: 69.62%;
+  left: 16.76%;
+}
+.cooking1Icon {
+  height: 36.15%;
+  width: 38.62%;
+  top: 36.56%;
+  right: 41.07%;
+  bottom: 27.29%;
+  left: 20.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.byEndOf,
+.cooking1Icon,
+.div5 {
+  position: absolute;
+}
+.byEndOf {
+  top: 23.52%;
+  left: 13.34%;
+  font-size: var(--text-sm-regular-size);
+  color: var(--color-darkgray-100);
+}
+.div5 {
+  height: 30%;
+  width: 42.18%;
+  top: 8.12%;
+  left: 27.27%;
+  font-size: 23.98px;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.communityKitchensRight {
+  position: absolute;
+  height: 79.75%;
+  width: 31.31%;
+  top: 20.25%;
+  right: 0;
+  bottom: 0;
+  left: 68.69%;
+}
+.wellNourished {
+  position: absolute;
+  top: 77.33%;
+  left: 8.13%;
+}
+.farmer1Icon {
+  height: 42.08%;
+  width: 44.96%;
+  top: 35.97%;
+  right: 31.33%;
+  bottom: 21.95%;
+  left: 23.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.byEndOf1,
+.farmer1Icon,
+.lakh {
+  position: absolute;
+}
+.byEndOf1 {
+  top: 23.52%;
+  left: 15.79%;
+  font-size: var(--text-sm-regular-size);
+  color: var(--color-darkgray-100);
+}
+.lakh {
+  height: 15.41%;
+  width: 65.22%;
+  top: 9.89%;
+  left: 21.18%;
+  font-size: 23.98px;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.wellNourishedRight {
+  position: absolute;
+  height: 79.75%;
+  width: 31.31%;
+  top: 20.25%;
+  right: 34.17%;
+  bottom: 0;
+  left: 34.53%;
+}
+.midDayMeals,
+.restaurant1Icon {
+  position: absolute;
+  top: 78.51%;
+  left: 7.11%;
+}
+.restaurant1Icon {
+  height: 31.41%;
+  width: 33.56%;
+  top: 41.18%;
+  right: 37.17%;
+  bottom: 27.41%;
+  left: 29.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.byEndOf2,
+.crore {
+  position: absolute;
+  top: 23.52%;
+  left: 12.17%;
+  font-size: var(--text-sm-regular-size);
+  color: var(--color-darkgray-100);
+}
+.crore {
+  height: 22.52%;
+  width: 83.46%;
+  top: 5.75%;
+  left: 13.19%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.midDayMealsRight,
+.plusCircleIcon1 {
+  position: absolute;
+  height: 79.75%;
+  width: 31.31%;
+  top: 20.25%;
+  right: 68.34%;
+  bottom: 0;
+  left: 0.36%;
+}
+.plusCircleIcon1 {
+  height: 11.34%;
+  width: 4.76%;
+  top: 1.9%;
+  right: 81.98%;
+  bottom: 86.76%;
+  left: 13.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.goals1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-abhaya-libre-semibold);
+  color: var(--white);
+}
+.goalsSectionRight {
+  position: absolute;
+  top: 313.46px;
+  left: 984.37px;
+  width: 504.49px;
+  height: 211.59px;
+  font-size: 20.11px;
+}
+.arityPoints {
+  position: absolute;
+  top: 0;
+  left: 26.72px;
+  display: inline-block;
+  width: 148.28px;
+}
+.logoFooterCharityChild {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-seagreen);
+  width: 26.91px;
+  height: 28.05px;
+}
+.ch {
+  position: absolute;
+  top: 4.01px;
+  left: 2px;
+  font-size: 16.03px;
+  display: inline-block;
+  color: var(--white);
+  width: 27.39px;
+  height: 10.69px;
+}
+.logoFooterCharity {
+  position: absolute;
+  top: 154px;
+  left: 115px;
+  width: 175px;
+  height: 30.06px;
+  font-size: 21.37px;
+  color: var(--color-mediumseagreen);
+  font-family: var(--text-sm-regular);
+}
+.groupChild3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 7.24px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.9px rgba(0, 0, 0, 0.16);
+}
+.raw,
+.type {
+  position: absolute;
+  top: 0;
+  left: 2.91%;
+  opacity: 0.6;
+}
+.raw {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-lato);
+  font-size: 11.59px;
+  top: 34.47%;
+  left: 20.49%;
+  font-weight: 700;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+}
+.rectangleContainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.t1 {
+  position: relative;
+  width: 227.44px;
+  height: 43.46px;
+}
+.departureField {
+  position: absolute;
+  height: 3.62%;
+  width: 17.31%;
+  top: 33.5%;
+  right: 55.44%;
+  bottom: 62.88%;
+  left: 27.25%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 11.59px;
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
+.download3Icon {
+  position: absolute;
+  top: 2px;
+  left: 59px;
+  width: 5px;
+  height: 5px;
+  object-fit: cover;
+}
+.t1Parent {
+  position: absolute;
+  height: 3.62%;
+  width: 14.21%;
+  top: 38%;
+  right: 58.6%;
+  bottom: 58.38%;
+  left: 27.19%;
+  font-size: var(--font-size-5xs);
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
+.indiaInd,
+.yourLocation {
+  position: absolute;
+  top: 9.2%;
+  left: 13.19%;
+  opacity: 0.6;
+}
+.indiaInd {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-5xs);
+  top: 52.92%;
+  left: 20.67%;
+  font-weight: 700;
+  color: var(--color-gray-300);
+  text-align: left;
+}
+.groupChild6 {
+  position: absolute;
+  height: 50%;
+  width: 9.55%;
+  top: 25%;
+  right: 85.99%;
+  bottom: 25%;
+  left: 4.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.departureField1 {
+  position: absolute;
+  height: 3.49%;
+  width: 17.28%;
+  top: 29.5%;
+  right: 55.15%;
+  bottom: 67.01%;
+  left: 27.56%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xs);
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
+.foodDashboard {
+  position: relative;
+  background: linear-gradient(180deg, #e5e5e5, rgba(240, 240, 240, 0));
+  width: 100%;
+  height: 1200px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-sm-regular-size);
+  color: var(--text-primary);
+  font-family: var(--font-abhaya-libre-extrabold);
+}
