@@ -1,7 +1,8 @@
 
   # CHARITY POINTS
  - First item
-  
+  * This is the first list item.
+* Here's the second list item.
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
   To preview and run the project on your device:
