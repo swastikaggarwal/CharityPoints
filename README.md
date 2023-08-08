@@ -75,10 +75,27 @@ Charity Points facilitates the connection(Interface) between donors eager to con
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
 
-<h2 style="color: blue;">Code of Watson Assistant</h2>
+  <h2 style="color: blue;">Code of Watson Assistant</h2>
+  ```
+  <script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "12650214-b8c0-4e1a-99f6-408259800e97", // The ID of this integration.
+    region: "au-syd", // The region your integration is hosted in.
+    serviceInstanceID: "106aa994-9b93-40c0-8264-baf6c87cdf3f", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>
+```
 
-  
-     
+  <h2 style="color: blue;">API KEY USED </h2>
+  ```
+   API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
+   ```
      
   ## GIF & Video (Watson Assitant)
      
