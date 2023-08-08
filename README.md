@@ -10,7 +10,7 @@
     * [How our technology solution can help](#how-our-technology-solution-can-help)
    * [Our idea](#our-idea)
 * [Technology implementation](#technology-implementation)
-    * [IBM AI service(s) used](#IBM-AI-service(s)-used)
+    * [IBM AI services used](#ibm-ai-services-used)
     * Other IBM technology used
     * Solution Architecture
  * Presentation materials
@@ -70,7 +70,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 
 
 
- ### IBM AI service(s) used
+ ## IBM AI services used
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
