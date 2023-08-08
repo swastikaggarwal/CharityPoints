@@ -50,7 +50,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 
 **Our Mission** Charity Points sees a mission to become a Platform where we <br>
 ## Technology implementation
-## Webiste Development ( Charity Points)
+#### Webiste Development ( Charity Points)
 1. Tech Stack
 * HTML
 * CSS
