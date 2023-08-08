@@ -79,7 +79,11 @@ We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enh
      
      
      * GIF & Video (Watson Assitant)
-     ![Gif video of IBM Chatbot](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b)
+     <div style="text-align:center;">
+  <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b" alt="Gif video of IBM Chatbot" width="300"/>
+</div>
+
+
 
 
 
