@@ -56,7 +56,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 * CSS
 * Javascript
 2. Images and Screenshots of Main Website(Charity Points)
-![Homepage](https://github.com/swastikaggarwal/CharityPoints/tree/main/Image%20Folder%20of%20Website%20and%20IBM%20services/Home%20page.png)
+
  ### IBM AI service(s) used
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
