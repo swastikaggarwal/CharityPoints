@@ -74,11 +74,11 @@ Charity Points facilitates the connection(Interface) between donors eager to con
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
-## 
-     ## Images and Screenshots:  
+
+  ## Images and Screenshots:  
      
      
-     ## GIF & Video (Watson Assitant)
+  ## GIF & Video (Watson Assitant)
      
   <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b" alt="Gif video of IBM Chatbot" width="600"/>
 
