@@ -51,11 +51,11 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 **Our Mission** Charity Points sees a mission to become a Platform where we <br>
 ## Technology implementation
 #### Webiste Development ( Charity Points)
-1. Tech Stack
+1. **Tech Stack**
 * HTML
 * CSS
 * Javascript
-2. Images and Screenshots of Main Website(Charity Points)
+2. **Images and Screenshots of Main Website(Charity Points)**
   
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/f20a4c9c-9eb4-476d-95c1-07615eb8e8d5" alt="Home page" width="500"/>
