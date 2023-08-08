@@ -96,7 +96,7 @@ We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enh
 
 ##  API KEY USED 
 ```
-API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
+**API key:** g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
 ```
   ## GIF & Video (Watson Assitant)
      
