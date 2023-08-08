@@ -73,7 +73,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
  ## IBM AI services used
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
-We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
+We utilize the **Watson Assistant Chatbot** on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
 
   ## Code of Watson Assistant
   
@@ -113,17 +113,9 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
 
 
 
-which in Total gives a sense of Happiness and pleasure to users for what they did.
-Our Mission: NO one in India should Sleep Empty stomach, Everyone have at least hygiene wears and books to read, 
-
-
-FACTS: EVERYONE like rewards 
-
-Searching nearby Organisations helps
-
-
-  
-
+ ## Additional details
+ ### How to run the project
+ 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
   To preview and run the project on your device:
@@ -132,4 +124,4 @@ Searching nearby Organisations helps
   3) Run `npm start` to view the project in the browser
   
 
-[def]: #how-our-technology-solution-can-help-(**solution**)
+
