@@ -1,4 +1,4 @@
-
+![Gif video of IBM Chatbot](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/f00b560f-2f76-442e-bbf8-5c54da377117)
   # Charity Points 
      Search Nearby Charity Organizations to Donate Books and clothes, Volunteering your time in a social cause 
   ---
@@ -74,10 +74,16 @@ Charity Points facilitates the connection(Interface) between donors eager to con
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
+## 
      * Images and Screenshots:  
      
      
      * GIF & Video (Watson Assitant)
+     ![Gif video of IBM Chatbot](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b)
+
+
+
+
   2. [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) 
    * When and Where
       
