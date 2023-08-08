@@ -75,7 +75,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
 
-  <h2 style="color: blue;">Code of Watson Assistant</h2>
+  ## Code of Watson Assistant
   
   ```
   <script>
@@ -94,24 +94,13 @@ We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enh
 ```
 
 
-  <h2 style="color: blue;">API KEY USED </h2>
-  ```
-  API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
-  ```
-  
-  
-   
-  
-     
+##  API KEY USED 
+```
+API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
+```
   ## GIF & Video (Watson Assitant)
      
   <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b" alt="Gif video of IBM Chatbot" width="600"/>
-
-
-
-
-
-
 
   2. [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) 
    * When and Where
@@ -140,7 +129,7 @@ Searching nearby Organisations helps
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
+  3) Run `npm start` to view the project in the browser
   
 
 [def]: #how-our-technology-solution-can-help-(**solution**)
