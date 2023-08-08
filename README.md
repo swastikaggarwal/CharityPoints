@@ -76,6 +76,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
 
   <h2 style="color: blue;">Code of Watson Assistant</h2>
+  
   ```
   <script>
   window.watsonAssistantChatOptions = {
@@ -92,10 +93,15 @@ We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enh
 </script>
 ```
 
+
   <h2 style="color: blue;">API KEY USED </h2>
   ```
-   API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
-   ```
+  API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
+  ```
+  
+  
+   
+  
      
   ## GIF & Video (Watson Assitant)
      
