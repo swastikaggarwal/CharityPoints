@@ -10,7 +10,7 @@
     * [How our technology solution can help](#how-our-technology-solution-can-help)
    * [Our idea](#our-idea)
 * [Technology implementation](#technology-implementation)
-    * [IBM AI service(s) used](#ibm-ai-service(s)-used)
+    * [IBM AI service(s) used](#IBM-AI-service(s)-used)
     * Other IBM technology used
     * Solution Architecture
  * Presentation materials
