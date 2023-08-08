@@ -1,4 +1,4 @@
-![Gif video of IBM Chatbot](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/f00b560f-2f76-442e-bbf8-5c54da377117)
+
   # Charity Points 
      Search Nearby Charity Organizations to Donate Books and clothes, Volunteering your time in a social cause 
   ---
@@ -80,7 +80,7 @@ We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enh
      
      * GIF & Video (Watson Assitant)
      <div style="text-align:center;">
-  <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b" alt="Gif video of IBM Chatbot" width="300"/>
+  <img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/832f73a5-b017-4877-b5bb-bbaabf3faf7b" alt="Gif video of IBM Chatbot" width="600"/>
 </div>
 
 
