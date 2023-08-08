@@ -50,12 +50,19 @@ Charity Points facilitates the connection(Interface) between donors eager to con
 
 **Our Mission** Charity Points sees a mission to become a Platform where we <br>
 ## Technology implementation
+## Webiste Development ( Charity Points)
+1. Tech Stack
+* HTML
+* CSS
+* Javascript
+2. Images and Screenshots of Main Website(Charity Points)
+![Homepage](https://github.com/swastikaggarwal/CharityPoints/tree/main/Image%20Folder%20of%20Website%20and%20IBM%20services/Home%20page.png)
  ### IBM AI service(s) used
   1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) 
      * When and where: 
 We utilize the Watson Assistant Chatbot on our website, "Charity Points," to enhance user experience. Through this feature, users can conveniently explore options for donating, volunteering, and registering as an NGO.
      * Images and Screenshots:  
-     ![HomePage](C:\Users\radhika\Desktop\Final Project MVP\Image Folder of Website and IBM services\Home page.png)
+     
      
      * GIF & Video (Watson Assitant)
   2. [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) 
