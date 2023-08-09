@@ -105,7 +105,7 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
   2. [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) 
    * When and Where
 
-  ## Other IBM technology used
+## Other IBM technology used
   1. [**Watson Machine Learning**](https://www.ibm.com/cloud/object-storage) <br>
     Auto-generated for key <br>
     ```crn:v1:bluemix:public:conversation:au-syd:a/f9e1c3f91e4747b28c7b16f7cb9d264b:106aa994-9b93-40c0-8264-baf6c87cdf3f:resource-key:84ec672a-426b-4361-b223-57a6adf6ebe2```
