@@ -120,9 +120,10 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
   * 1: Donate:( Food, Clothes, Books, Medical, Toys & Gifts)
   * 2: Volunteer:(Sports/Events, Virtual/Social,Direct Services,Fundraising)
   * 3: IBM-Chatbot:(Help users to search, Donate and Register as NGO)
-  * 4: Enter Details:( Text, Speak ( IBM speech-to-text), Upload Image) 
-  * 5: Search Organisation: List of Organisations in your Nearby Location, [Select and Donate]
-  * 6: Greetings & Charity points:(Reward for you )🟡💰 As an Appricaition you will receive Charity points can redeem to buy something from our platform 
+  * 4: Enter Details📜:( Text ✏️, Speak🎙️( IBM speech-to-text), Upload Image🖼️) 
+  * 5: Search Organisation🔎: List of Organisations in your Nearby Location, [Select and Donate]
+  * 6: Greetings & Charity points:(Reward for you )🟡💰 As an Appricaition you will receive Charity points that can be redeemed to buy something from our platform 
+        
   
      
   ![Roadmap( Charity points)](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/64c6128c-bfc3-41ce-ac9e-689199a083ac)
