@@ -16,10 +16,10 @@
  * [Presentation materials](#presentation-materials)
     * [Solution demo video](#solution-demo-video)
     * [Project development roadmap](#project-development-roadmap)
- * Additional details
-    * How to run the project
- * Team details
-    * About
+ * [Additional details](#additional-details)
+    * [How to run the project](#how-to-run-the-project)
+ * [Team details](#team-details)
+    * [Authors](#authors)
  
 
 ## Project Summary 
@@ -137,6 +137,13 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
   3) Run `npm start` to view the project in the browser
+
+## Team details
+ * Authors
+<img src="https://github.com/swastikaggarwal/CharityPoints/assets/103200961/65b46a30-4ae3-45b3-89ed-7ab3d58d8c3f" width="100" height="100">
+* Swastik Aggarwal
   
+
+
 
 
