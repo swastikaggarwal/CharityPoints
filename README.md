@@ -13,9 +13,9 @@
     * [IBM AI services used](#ibm-ai-services-used)
     * [Other IBM technology used](#other-ibm-technology-used)
     * [Solution Architecture](#solution-architecture)
- * Presentation materials
-    * Solution demo video
-    * Project development roadmap
+ * [Presentation materials](#presentation-materials)
+    * [Solution demo video](#solution-demo-video)
+    * [Project development roadmap](#project-development-roadmap)
  * Additional details
     * How to run the project
  * Team details
@@ -112,6 +112,20 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
 
 ## Solution Architecture
 ![Solution Architecture( charity points)](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/bba3e670-1da3-4030-afe9-5df3fc89415d)
+
+## Presentation materials
+  ## Solution demo video
+
+  ## Project development roadmap
+  * 1: Donate:( Food, Clothes, Books, Medical, Toys & Gifts)
+  * 2: Volunteer:(Sports/Events, Virtual/Social,Direct Services,Fundraising)
+  * 3: IBM-Chatbot:(Help users to search, Donate and Register as NGO)
+  * 4: Enter Details:( Text, Speak ( IBM speech-to-text), Upload Image) 
+  * 5: Search Organisation: List of Organisations in your Nearby Location, [Select and Donate]
+  * 6: Greetings & Charity points:(Reward for you )🟡💰 As an Appricaition you will receive Charity points can redeem to buy something from our platform 
+  
+     
+  ![Roadmap( Charity points)](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/64c6128c-bfc3-41ce-ac9e-689199a083ac)
        
  ## Additional details
  ### How to run the project
