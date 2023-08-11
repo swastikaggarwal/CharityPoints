@@ -115,6 +115,8 @@ API key: g5zv1TuXoobQuBk233Il4stBjOEKF0PDu1zYoJc6pief
 
 ## Presentation materials
   ## Solution demo video
+[Charity Points](https://www.youtube.com/watch?v=fvMjIJRWIC0)
+
 
   ## Project development roadmap
   * 1: Donate:( Food🥗, Clothes👕, Books📒, Medical💊, Toys & Gifts🧸)
