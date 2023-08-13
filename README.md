@@ -48,7 +48,7 @@ Charity Points facilitates the connection(Interface) between donors eager to con
   2. Economical
   3. Environmental <br>
 
-**Our Mission** Charity Points sees a mission to become a Platform where we <br>
+**Our Mission** Charity Points sees a mission to become the First Platform where we Fulfill the Demand and Support the People who are in Need  <br>
 ## Technology implementation
 #### Webiste Development ( Charity Points)
 1. **Tech Stack**
